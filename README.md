@@ -1,5 +1,5 @@
 # numerical-methods
-A library of some numberical functions written in Rust.
+A library of some numerical functions written in Rust.
 
 Included functions:
 * Vector Addition
